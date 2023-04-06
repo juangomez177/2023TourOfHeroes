@@ -1,6 +1,7 @@
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+This application is configured to work with a REST service for the Back-End, please check the following repository [Git Hub](https://github.com/juangomez177/2023TourOfHeroesAPI.git)
 
 ## Development server
 
